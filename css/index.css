@@ -1,0 +1,106 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Castoro", serif;
+  line-height: 1.5;
+  font-size: 24px;
+  letter-spacing: 1px;
+}
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  height: auto;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+h1 {
+  font-size: 128px;
+}
+h2 {
+  font-size: 128px;
+  text-align: right;
+}
+h3 {
+  font-size: 40px;
+  color: #ae0000;
+  border-bottom: 3px solid #ae0000;
+  width: 636px;
+}
+.h2-block {
+  width: 636px;
+  margin-left: auto;
+  text-align: left;
+}
+.font-style-1 {
+  font-style: italic;
+  color: #949494;
+  font-size: 20px;
+}
+.mt-1 {
+  margin-top: 4px;
+}
+.mt-2 {
+  margin-top: 8px;
+}
+.mt-3 {
+  margin-top: 12px;
+}
+.mt-4 {
+  margin-top: 16px;
+}
+.w-50{
+  width: 636px;
+}
+.container {
+  max-width: 1296px;
+  margin: 0 auto;
+}
+.resume {
+  padding-top: 160px;
+}
+.resume img {
+  display: block;
+  margin: 0 auto;
+}
+.resume-work {
+  background: #efefef;
+  padding: 48px 0;
+}
+.resume-work-content {
+  margin-left: auto;
+  font-size: 32px;
+}
+
+.profiles,
+.education,
+.work {
+  padding-bottom: 40px;
+  word-wrap: break-word;
+}
+.profiles {
+  padding-top: 80px;
+}
+.awards {
+  padding-bottom: 160px;
+  word-wrap: break-word;
+}
+.footer {
+  background: #000;
+}
+.footer-icon {
+  text-align: center;
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+.footer-icon a {
+  margin: 0 20px;
+}
+.footer-icon a img {
+  width: 64px;
+  height: 64px;
+}
