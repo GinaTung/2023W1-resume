@@ -16,6 +16,7 @@ img {
 a {
   text-decoration: none;
   display: inline-block;
+  color: #000;
 }
 h1 {
   font-size: 128px;
